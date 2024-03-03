@@ -1,4 +1,4 @@
-Project Aim: Social Media Analysis Report
+##Project Aim: Social Media Analysis Report
 Objective:
 The goal of this project is to analyze social media data and provide actionable insights. We’ll explore various aspects of social media activity, including hourly trends, engagement metrics, country-specific patterns, and popular hashtags. By visualizing the data, we aim to uncover meaningful patterns and correlations.
 
